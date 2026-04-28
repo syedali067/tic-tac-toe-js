@@ -19,5 +19,5 @@
 ## 🔗 Live Demo
 <<<<<<< HEAD
 =======
-https://syedali067.github.io/tic-tac-toe-js/
+
 
