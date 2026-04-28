@@ -10,8 +10,10 @@
 - CSS
 - JavaScript
 
-## 📸 Screenshot
-(Add later)
+## ## 📸 Screenshots
+
+![App Screenshot](Picture1.png)
+![App Screenshot](Picture2.png)
 
 ## 🔗 Live Demo
 (Add after deployment)
