@@ -37,4 +37,6 @@ A simple and interactive 2-player Tic Tac Toe game built using HTML, CSS, and Ja
 
 ---
 
-## 📂 Project Structure
+👨‍💻 Author
+
+Made by Ali Syed
