@@ -16,4 +16,4 @@
 ![App Screenshot](Picture2.png)
 
 ## 🔗 Live Demo
-(Add after deployment)
+https://syedali067.github.io/tic-tac-toe-js/
