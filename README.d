@@ -16,4 +16,3 @@
 ![App Screenshot](Picture2.png)
 
 ## 🔗 Live Demo
-(Add after deployment)
