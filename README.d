@@ -12,7 +12,7 @@
 
 ## 📸 Screenshots
 
-![Game Start](Picture1.png)
+![image alt](https://github.com/syedali067/tic-tac-toe-js/blob/2963a5a9e047422476ef9bb7710c2aa5ae897c2a/Picture1.png)
 ![Winning State](Picture2.png)
 
 ## 🔗 Live Demo
