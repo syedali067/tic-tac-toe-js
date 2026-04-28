@@ -22,11 +22,13 @@ A simple and interactive 2-player Tic Tac Toe game built using HTML, CSS, and Ja
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Game Start
-![Game Start](images/picture1.png)
+![Game Start](https://raw.githubusercontent.com/syedali067/tic-tac-toe-js/main/images/picture1.png)
 
 ### Winning State
-![Winning State](images/picture2.png)
+![Winning State](https://raw.githubusercontent.com/syedali067/tic-tac-toe-js/main/images/picture2.png)
 
 ---
 
